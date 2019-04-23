@@ -1,3 +1,11 @@
-# Ejemplo_ListView
-Ejemplo Android con listview, adaptador y evento click
-5.0 Lollipop
+
+Ejemplo Android
+=======================================================
+
+Este repositorio es un ejemplo de java web para la univeridad.
+
+Librerias:
+
+* ListView.
+* Adapter.
+* Click Event implementado en los elementos del listView.
