@@ -2,7 +2,7 @@
 Ejemplo Android
 =======================================================
 
-Este repositorio es un ejemplo de java web para la univeridad.
+Este repositorio es un ejemplo de android para la univeridad.
 
 Librerias:
 
